@@ -1,0 +1,54 @@
+.fundoPesquisa{
+    background-color: rgb(238, 255, 0);
+    height: 6vh;
+    text-align: center;
+    line-height: 5vh;
+    border-style:ridge;
+    
+}
+.navegacaobarra{
+    background-color: rgb(238, 255, 0);
+    height: 6vh;
+    text-align: center;
+    line-height: 6vh
+    
+}
+.opcaobarra{
+    margin-left: 2vw;
+    
+}
+.conteudo{
+    background-color:darkgray ;
+    height: auto;
+    text-align: center;
+    margin-top: 0;
+    height: 80vh;
+}
+.primeiraoferta{
+    height: 15vh;
+    width: 20vw;
+    float: left;
+    text-align: left;
+    margin-left: 30vh;
+}
+.segundaoferta{
+    height: 15vh;
+    width: 20vw;
+    float: left;
+    text-align: left;
+    margin-right: 10vh;
+}
+.terceiraoferta{
+    height: 15vh;
+    width: 20vw;
+    float: left;
+    text-align: left;
+    margin-left: 1vh;
+}
+.quartaoferta{
+    height: 15vh;
+    width: 20vw;
+    float: left;
+    text-align: left;
+    margin-left: 1vh;
+}
