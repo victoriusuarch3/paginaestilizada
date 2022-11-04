@@ -14,8 +14,13 @@
     
 }
 .opcaobarra{
-    margin-left: 2vw;
+    margin-left: 1.4vw;
     
+}
+.opcaobarra:hover{
+    padding: 0.5%;
+    transition-duration: 0.55s;
+    background-color:gainsboro;
 }
 .conteudo{
     background-color:darkgray ;
@@ -51,4 +56,18 @@
     float: left;
     text-align: left;
     margin-left: 1vh;
+}
+.produto{
+    background-color: white;
+    height: 224px;
+    width: 25vh;
+    float: left;
+    margin-left: 18vw;
+    margin-right: 3.9vw;
+    overflow:hidden;
+}
+.produto:hover{
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+    height: 330px;
 }
